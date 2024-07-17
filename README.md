@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/sachinsolanki/Sachin%20Training/_apis/build/status%2Fpipelines-java.git?branchName=main)](https://dev.azure.com/sachinsolanki/Sachin%20Training/_build/latest?definitionId=3&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
